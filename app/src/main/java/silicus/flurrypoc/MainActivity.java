@@ -13,7 +13,7 @@ import com.flurry.android.FlurryAgent;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String FLURRY_API_KEY = "KP5ZGVSR8ZDJJQNW56P8";
+    private static final String FLURRY_API_KEY = "KP5ZGVSR8ZDJJQNW56P8-123232";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
